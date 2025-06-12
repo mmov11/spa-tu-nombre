@@ -1,0 +1,37 @@
+1.- dar el comienzo a la creación del código.
+2.- da el inicio al codigo
+3.- es lo que va en la parte de arriba de la pagina ósea los links
+4.- crea el titulo del sitio web.
+5.-
+6.-
+7.- es el que crea el cuerpo del sitio o pagina web
+8.-
+9.-
+10.-
+11.- este te indica donde esta el inicio de la pagina
+12.- de que trata la pagina
+13.- los servicios que te ofrecen 
+14.- el contacto para poder comunicarte con la empresa del sitio web
+15.-
+16.-
+17.-
+18.-
+19.- esto va en el cuerpo del sitio es el titulo que te da la bienvenida  a la pagina o te muestra que es.
+20.- te detalla lo que interesa saber del sitio, es la información mas relevante que tiene la pagina en si con este puedes agregar la info
+21.- para insertar una imagen visible en la pagina
+22.- el h2 es el subtitulo que te indica de que trata con breves palabras
+23.-
+24.- a este cod al final le agregaría el cierre </li
+25.-a este cod al final le agregaría el cierre </li
+26.-a este cod al final le agregaría el cierre </li
+27.-
+28.-
+29.-
+30.- te muestra info final
+31.-
+32.- el cierre del cuerpo del codigo
+33.- te cierra el código para proceder a su ejecución.
+
+
+
+
